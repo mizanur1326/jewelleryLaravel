@@ -1,6 +1,6 @@
     <!-- blog section -->
 
-    <section class="blog_section ">
+    <section class="blog_section layout_padding">
         <div class="container">
             <div class="heading_container">
                 <h2>
